@@ -107,7 +107,7 @@ Manual Tecnico
 
 Demo
 
-Video demostrativo: se encuentra subido al classroom
+Video demostrativo: se encuentra subido al classroom o en el gmail.
 
 Repositorio: https://github.com/srcamto/gestion-productos
 
