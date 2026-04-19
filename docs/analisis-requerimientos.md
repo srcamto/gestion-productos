@@ -1,4 +1,4 @@
-# Análisis de Requerimientos
+# Análisis de Requerimientos 
 
 ## 1. Problema a Resolver
 Una empresa necesita que su fuerza de ventas consulte el catálogo de productos actualizado, pero solo el área administrativa debe poder modificar este catálogo para mantener la integridad de la información y evitar errores operativos que podrían afectar las ventas o la reputación del negocio.

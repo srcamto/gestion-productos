@@ -89,7 +89,7 @@ Al iniciar sesión como Vendedor, verá el panel de control con un botón verde 
    - Disponibilidad (unidades o "Agotado")
 3. Haga clic en **"Volver al Catálogo"** para regresar
 
-> 📌 **Nota:** Los vendedores **NO** pueden crear, editar ni eliminar productos. Si intenta acceder a rutas de administrador, recibirá un error **403 - No autorizado**.
+> **Nota:** Los vendedores **NO** pueden crear, editar ni eliminar productos. Si intenta acceder a rutas de administrador, recibirá un error **403 - No autorizado**.
 
 ---
 
